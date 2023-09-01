@@ -191,7 +191,7 @@ export const Teams = () => {
         </div>
       </div>
 
-      <div className="flex flex-col items-center rounded-lg bg-gray-200 p-4 lg:p-8">
+      {/* <div className="flex flex-col items-center rounded-lg bg-gray-200 p-4 lg:p-8">
         <div className="mb-2 h-24 w-24 overflow-hidden rounded-full bg-gray-200 shadow-lg md:mb-4 md:h-32 md:w-32">
         <Image src={seven} alt="frontend developer" loading="lazy"  className="h-full w-full object-cover object-center" />
         </div>
@@ -214,10 +214,10 @@ export const Teams = () => {
                 </svg>
               </div>
             </div>
-          </div> */}
+          </div> 
 
         </div>
-      </div>
+      </div> */}
 
     </div>
   </div>

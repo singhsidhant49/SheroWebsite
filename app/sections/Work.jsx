@@ -40,10 +40,10 @@ const Work = () => (
       </div>
       <div className="grid gap-6 row-gap-5 mb-8 lg:grid-cols-3  md:grid-cols-3 sm:row-gap-6 sm:grid-cols-2">
 
-      <WorkImg iurl={pone} title="TiffinXpress" description="TIFFINXpress is a convenient and efficient application. Offering a variety of freshly prepared, home-cooked meals, the app allows users to easily customize and schedule meal deliveries according to their preferences. With user-friendly features and a focus on quality, TIFFINXpress brings delicious, wholesome food right to your doorstep." />
+      {/* <WorkImg iurl={pone} title="TiffinXpress" description="TIFFINXpress is a convenient and efficient application. Offering a variety of freshly prepared, home-cooked meals, the app allows users to easily customize and schedule meal deliveries according to their preferences. With user-friendly features and a focus on quality, TIFFINXpress brings delicious, wholesome food right to your doorstep." /> */}
 
 {/* <WorkImg lurl="https://sid-youtube-clone.netlify.app/" iurl={ptwo} title="Video Streaming App" description="My video streaming app allows users to stream and watch their favorite videos online. With a vast collection of movies, TV shows, and other videos, users can easily search and discover new content to enjoy. The app provides a user-friendly interface that allows users to easily navigate and find what they're looking for" /> */}
-<WorkImg  iurl={ptwo} title="UkStories" description="UK Stories is a cutting-edge news web application designed using React, Node.js, and Sequelize. Specifically tailored for the Uttarakhand community, it offers a streamlined way to access and engage with the latest news and events in the region" />
+{/* <WorkImg  iurl={ptwo} title="UkStories" description="UK Stories is a cutting-edge news web application designed using React, Node.js, and Sequelize. Specifically tailored for the Uttarakhand community, it offers a streamlined way to access and engage with the latest news and events in the region" /> */}
 
 
         <WorkImg lurl="/" iurl={portfolio1} title="Portfolio Website" description="A portfolio website is an online platform that showcases your skills, experience, and accomplishments to potential clients or employers. It is a place where you can highlight your best work, share your story, and make a strong first impression." />
